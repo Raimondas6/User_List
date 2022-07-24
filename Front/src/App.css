@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.progressBar {
+  background-color: green;
+  height: 20px;
+  margin-top: 20px;
+  border: 2px solid black;
+}
